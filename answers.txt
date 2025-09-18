@@ -21,3 +21,12 @@ Answer: Merging combines the histories of both the branches we are
 merging. However, rebasing formulates a linear branch history in
 that it moves the history of one branch on top of another. This shows
 the history of both branches more clearly!
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am taking some very interested courses this semester,
+including CMSC320! I have never taken any courses related to data
+science so I am eager to learn more about this topic! I am also
+taking an introductory finance course this semester as part of my minor.
+This class has been really interesting so far, so I am really excited
+to see where it goes!!
