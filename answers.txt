@@ -14,3 +14,10 @@ instance, the healthcare industry uses data science to analyze patient
 data to track new diseases, family history, create cures, and more.
 The finance industry also uses data science to analyze market data and
 provide its users with the most recent information.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines the histories of both the branches we are
+merging. However, rebasing formulates a linear branch history in
+that it moves the history of one branch on top of another. This shows
+the history of both branches more clearly!
